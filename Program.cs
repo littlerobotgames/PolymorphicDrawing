@@ -1,4 +1,6 @@
-﻿using ShapeLib;
+﻿//Alex Gardner - 3/17/26 - Lab 9: Polymorphic Drawing
+
+using ShapeLib;
 
 List<IGraphic2D> shapes = new List<IGraphic2D> {
     new Circle(10, 10, 5) { BackgroundColor = ConsoleColor.DarkYellow, DisplayChar = ' ' },

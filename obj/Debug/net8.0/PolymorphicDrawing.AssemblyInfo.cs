@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PolymorphicDrawing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7704246c53bf6e2693b035e0abae021e18030adb")]
 [assembly: System.Reflection.AssemblyProductAttribute("PolymorphicDrawing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PolymorphicDrawing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
