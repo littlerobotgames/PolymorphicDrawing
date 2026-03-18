@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PolymorphicDrawing/1.0.0": {
+        "dependencies": {
+          "ShapeLib": "1.0.0"
+        },
+        "runtime": {
+          "PolymorphicDrawing.dll": {}
+        }
+      },
+      "ShapeLib/1.0.0": {
+        "runtime": {
+          "ShapeLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PolymorphicDrawing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShapeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
