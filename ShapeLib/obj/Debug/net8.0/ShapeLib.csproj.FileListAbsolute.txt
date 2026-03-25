@@ -1,0 +1,11 @@
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\ShapeLib\bin\Debug\net8.0\ShapeLib.deps.json
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\ShapeLib\bin\Debug\net8.0\ShapeLib.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\ShapeLib\bin\Debug\net8.0\ShapeLib.pdb
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\ShapeLib\obj\Debug\net8.0\ShapeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\ShapeLib\obj\Debug\net8.0\ShapeLib.AssemblyInfoInputs.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\ShapeLib\obj\Debug\net8.0\ShapeLib.AssemblyInfo.cs
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\ShapeLib\obj\Debug\net8.0\ShapeLib.csproj.CoreCompileInputs.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\ShapeLib\obj\Debug\net8.0\ShapeLib.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\ShapeLib\obj\Debug\net8.0\refint\ShapeLib.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\ShapeLib\obj\Debug\net8.0\ShapeLib.pdb
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\ShapeLib\obj\Debug\net8.0\ref\ShapeLib.dll
